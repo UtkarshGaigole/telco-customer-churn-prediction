@@ -1,0 +1,5 @@
+Model,Baseline Accuracy,Baseline Precision,Baseline Recall,Baseline F1,Tuned Accuracy,Tuned Precision,Tuned Recall,Tuned F1
+Random Forest,0.7861,0.6205,0.5027,0.5554,0.7619,0.5367,0.762,0.6298
+Logistic Regression,0.7925,0.6323,0.5241,0.5731,0.7356,0.5017,0.7834,0.6117
+Decision Tree,0.7207,0.4749,0.4813,0.4781,0.7313,0.4966,0.7807,0.6071
+KNN,0.7605,0.5486,0.5588,0.5536,0.7854,0.5952,0.6016,0.5984

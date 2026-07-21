@@ -1,0 +1,7 @@
+42
+
+Global random seed used throughout the project (RANDOM_STATE = 42 in src/preprocessing.py
+and src/evaluation.py, and random_state=42 in every notebook cell involving randomness:
+train_test_split, DecisionTreeClassifier, RandomForestClassifier, LogisticRegression,
+StratifiedKFold, mutual_info_classif). With this seed fixed, every number, table, and plot
+in the notebook and in results/ is exactly reproducible.
